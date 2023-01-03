@@ -4,7 +4,7 @@
 
 Me chamo Milton, sou bacharel em física pela Universidade Federal do Paraná (UFPR).
 
-A curiosidade para resolver problemas acabou me levando para a área de ciência de dados, a qual tenho estudado e aperfeiçoado através do "curso Data Science Para Negócios" da FLAI.
+A curiosidade para resolver problemas acabou me levando para a área de ciência de dados, a qual tenho estudado e aperfeiçoado através do curso "Data Science Para Negócios" da FLAI.
 
 
 
