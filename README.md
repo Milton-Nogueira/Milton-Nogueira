@@ -21,7 +21,6 @@ A curiosidade para resolver problemas acabou me levando para a área de ciência
 
 :chart_with_upwards_trend: Machine Learning
 
-:slot_machine:
 
 ### Contatos
 
