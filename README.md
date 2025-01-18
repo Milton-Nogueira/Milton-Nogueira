@@ -4,7 +4,7 @@
 
 
 
-Data Scientist with over 2 years of experience in data analysis, machine learning, and statistical modeling. Proven ability to extract, analyze, and visualize complex datasets to derive actionable insights and support data-driven decision-making. Experienced in developing predictive models, improving processes, and optimizing outcomes across diverse business functions. Skilled in Python, SQL, Excel, and data visualization tools such as Power BI and Tableau. Strong communicator with a collaborative mindset, adept at working with cross-functional teams to deliver data solutions aligned with business goals.
+Data Scientist with over 2 years of experience in data analysis, machine learning, and statistical modeling. Proven ability to extract, analyze, and visualize complex datasets to derive actionable insights and support data-driven decision-making. Experienced in developing predictive models, improving processes, and optimizing outcomes across diverse business functions. Skilled in Python, SQL, Excel, and data visualization tools such as Power BI. Strong communicator with a collaborative mindset, adept at working with cross-functional teams to deliver data solutions aligned with business goals.
 
 
 
